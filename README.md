@@ -7,7 +7,7 @@
 
 ### Step-by-step Tutorial
 
-setting up the environment on Jetson Nano, compile the PyTorch model with TVM, and perform instances from camera streaming.
+setting up the environment on **Jetson Nano**, compile the PyTorch model with TVM, and perform instances from camera streaming.
 
 **install OpenCV**:
 ```
