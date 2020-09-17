@@ -42,11 +42,11 @@ cd ..
 cd python; sudo python3 setup.py install; cd ..
 cd topi/python; sudo python3 setup.py install; cd ../..
 ```
-**run**:
+**run**:(may take a while...)
 ```
 bash install_protobuf-3.8.0.sh
 ```
-might take 40 minutes.
+
 
 **install onnx**:
 ```
