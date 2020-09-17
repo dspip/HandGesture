@@ -1,8 +1,9 @@
 # HandGesture
 
 ## Dependencies
--Ubuntu 18.04
--protbuf
+1.Ubuntu 18.04
+
+2.protbuf 3.8.0
 
 ### Step-by-step Tutorial
 
