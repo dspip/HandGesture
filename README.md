@@ -21,7 +21,7 @@ export PYTHONPATH=/usr/local/python
 
 **install pytorch & torchvision**:
 ```
-python3 -m pip install torch==1.2.0 torchvision==0.4.0
+python3 -m pip install torch==1.2.0 & torchvision==0.4.0
 ```
 Build **TVM** with following commands
 ```
