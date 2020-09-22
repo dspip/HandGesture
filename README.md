@@ -45,7 +45,7 @@ cd topi/python; sudo python3 setup.py install; cd ../..
 ```
 **run**:(may take a while...)
 ```
-bash install_protobuf-3.8.0.sh
+bash ./install_protobuf-3.8.0.sh
 ```
 
 
