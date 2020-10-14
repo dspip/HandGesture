@@ -19,7 +19,11 @@ bash ./install_protobuf-3.8.0.sh
 ```
 python3 -m pip install numpy
 python3 -m pip install opencv-python
-
+```
+or
+```
+$ sudo apt-get install python3-opencv
+$ sudo apt-get install python3-numpy
 ```
 You also need add cv2 package to path import search path.
 ```
