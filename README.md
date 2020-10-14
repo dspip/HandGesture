@@ -31,7 +31,7 @@ export PYTHONPATH=/usr/local/python
 ```
 
 **install pytorch & torchvision**:
-***** follow instruction to install pytorch and torchvision for jetson nano
+###### follow instruction to install pytorch and torchvision for jetson nano
 https://forums.developer.nvidia.com/t/pytorch-for-jetson-version-1-6-0-now-available/72048
 ```
  torch==1.2.0
