@@ -5,14 +5,21 @@
 
 2.protbuf 3.8.0
 
+3.Python 3.6
 ### Step-by-step Tutorial
 
 setting up the environment on **Jetson Nano**, compile the PyTorch model with TVM, and perform instances from camera streaming.
 
+**run**:(may take a while...)
+```
+bash ./install_protobuf-3.8.0.sh
+```
+
 **install OpenCV**:
 ```
-python3 -m pip install cv2==4.1.1
 python3 -m pip install numpy
+python3 -m pip install opencv-python
+
 ```
 You also need add cv2 package to path import search path.
 ```
@@ -43,10 +50,7 @@ cd ..
 cd python; sudo python3 setup.py install; cd ..
 cd topi/python; sudo python3 setup.py install; cd ../..
 ```
-**run**:(may take a while...)
-```
-bash ./install_protobuf-3.8.0.sh
-```
+
 
 
 **install onnx**:
